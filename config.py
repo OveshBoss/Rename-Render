@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "23903140")
 
 API_HASH = os.environ.get("API_HASH", "579f1bcf3eac1660d81ef34b09906012")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8541817576:AAGxlZEr--4ETbKqm2Lxbk0wZcL9eGrkP_c") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8059145299:AAEo3I-QIvcfrzWAXlhOhAAk4ndK1oMTR8Q") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "OveshBossOfficial") 
 
